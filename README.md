@@ -144,3 +144,15 @@ footer{padding: 0px 10px;}
 footer img{width: 100%;}
 
 ```
+
+
+
+```
+
+                <a href="#">HOME</a> | 
+                <a href="#">NOTICE</a> |
+                <a href="#">JOIN</a> |
+                <a href="#">LOGIN</a>
+
+
+```
